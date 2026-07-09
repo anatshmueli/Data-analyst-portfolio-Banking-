@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I'm a Data Analyst with over **15 years of experience** in banking and financial information systems. Recently, I graduated **with Honors** from the **John Bryce Data Analyst Program**, where I gained hands-on experience in SQL, Python, Power BI, ETL, and data visualization.
+I'm a Data Analyst with over **15 years of experience** in banking and financial information systems. Recently, I graduated **with Honors** from the **John Bryce Data Analyst Program**, where I gained hands on experience in SQL, Python, Power BI, ETL, and data visualization.
 
 I enjoy transforming raw data into meaningful insights and creating dashboards that support business decision-making.
 
@@ -15,7 +15,7 @@ I enjoy transforming raw data into meaningful insights and creating dashboards t
 - 🎓 Graduated with Honors from the John Bryce Data Analyst Program.
 - 💼 15+ years of experience in banking and financial information systems.
 - 📊 Experienced in SQL, Power BI, Python, Excel, ETL, and database analysis.
-- 📈 Passionate about Business Intelligence and data visualization.
+- 📈 Passionate about SQL analysing, Business Intelligence and data visualization.
 - 🌱 Continuously learning new technologies and improving my analytical skills.
 - 🎯 Looking for a Junior Data Analyst / BI Analyst position.
 
@@ -116,9 +116,8 @@ Created interactive dashboards with KPIs, slicers, and business visualizations.
 # 🎓 Education
 
 - 🎓 Data Analyst Program – John Bryce College (**Graduated with Honors**)
-- 🎓 Bachelor's Degree in Economics (Banking & Accounting)
-- 🎓 Bachelor's Degree in Biotechnology Engineering
-
+- 🎓 Bachelor's Degree in Economics (Banking & Accounting). Degree recognized by the Israeli Ministry of Education
+  
 ---
 
 # 📫 Contact
