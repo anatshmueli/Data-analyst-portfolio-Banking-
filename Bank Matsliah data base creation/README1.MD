@@ -1,10 +1,5 @@
 # 🏦 Bank Matsliah – Relational Database Design & SQL
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
-![SQL](https://img.shields.io/badge/SQL-Queries-blue)
-![ERD](https://img.shields.io/badge/ERD-Database%20Model-green)
-![Database](https://img.shields.io/badge/Relational-Database-orange)
-
 ---
 
 # 📖 Project Overview
