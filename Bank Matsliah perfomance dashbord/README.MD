@@ -238,4 +238,4 @@ The analysis revealed several important business insights:
 
 ---
 
-⭐ Thank you for visiting this project!
+⭐ Thank you for visiting this project.
