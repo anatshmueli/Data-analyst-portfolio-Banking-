@@ -170,10 +170,7 @@ The analysis identified several important business insights:
 
 - Microsoft SQL Server
 - SQL
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+- Python (Pandas, NumPy, Matplotlib)
 - Git
 - GitHub
 
